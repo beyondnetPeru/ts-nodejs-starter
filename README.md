@@ -1,2 +1,2 @@
-# ts-nodejs-starter
-A simple starter template for nodejs with support to ES6 and TypeScript 
+# dddjs
+A simple library to use Domain-Driven Design concepts with NodeJs, Js and TypeScript
